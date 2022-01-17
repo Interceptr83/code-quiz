@@ -1,0 +1,89 @@
+body {
+    background-color: grey;
+}
+.pageCard {
+    min-height: 100vh;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+header {
+    text-align: center;
+    background-color: rgb(37, 50, 88);
+    color: white;
+    border-radius: 10px 10px 0px 0px;
+    padding: 30px;
+    margin: 30px;
+}
+
+.timer {
+    text-align: center;
+    background-color: rgb(37, 50, 88);
+    color: white;
+  }
+
+button {
+    background-color:rgb(37, 50, 88);
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: inline-block;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 150%;
+    padding: 0px 10px 2px 10px;
+    border: 0;
+    transition: background-color 0.1s;
+
+}
+
+button:hover {
+    background-color: rgb(78, 98, 158);
+  }
+
+.game {
+    display: block;
+  }
+
+.intro {
+    font-size: 150%;
+    text-align: center;
+  }
+
+.right {
+    background-color: greenyellow;
+    font-size: 175%;
+    margin-top: 20px;
+    padding: 10px;
+    color: White;
+  }
+.wrong {
+    background-color:red;
+    font-size: 175%;
+    margin-top: 20px;
+    padding: 10px;
+    color: White;
+  }
+
+.invis {
+    display: none;
+  }
+
+.highScores {
+      background-color:rgb(37, 50, 88);
+      color: white;
+      padding: 10px;
+      text-align: center;
+  }
+.top10 {
+    font-size: 120%;
+    font-weight: bold;
+  }
+  li:nth-child(even) {
+    background-color: #f3edfc;
+  }
+  li:nth-child(odd) {
+    background-color: rgb(78, 98, 158);
+  }
+
