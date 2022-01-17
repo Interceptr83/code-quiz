@@ -1,4 +1,5 @@
 # 04 Web APIs: Code Quiz
+Deployed Link : https://interceptr83.github.io/code-quiz/
 ![codequiz-1](https://user-images.githubusercontent.com/90010873/149754232-1dd8de62-5966-4027-9cd2-6ee956204395.jpg)
 ![codequiz-2](https://user-images.githubusercontent.com/90010873/149754241-16748afd-6379-4f81-a301-1f582ae45fe3.jpg)
 ![codequiz-3](https://user-images.githubusercontent.com/90010873/149754250-c30f1950-b9ac-42a5-9909-accddb421bec.jpg)
