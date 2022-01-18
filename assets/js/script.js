@@ -173,6 +173,7 @@ function highScore(){
 
 // function to display high score page
 function createScoreList() {
+    entry.innerHTML = "";
     scoreList = JSON.parse(window.localStorage.getItem("scoreList")) || [];
     
     scoreList.sort(function(a, b){
